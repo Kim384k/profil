@@ -21,11 +21,23 @@ h3 {
     text-align: center;
   font-family: Cardo;
   color: #592C36;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #3B3A3F;
+    border-width: 70%;
   padding-bottom: 60px;
   margin-top: 2rem;
+}
+.email-link {
+  color: #5b0c16;
+  text-decoration: none;
+}
+.email-link:hover {
+  text-decoration: underline;
+  color: #5b0c16;
 }
 p {
   margin-bottom: 1rem;
   line-height: 1.8;
 }
+footer {
+  font-family: 'Franklin Gothic Medium';
+color: #6c5b66;}
