@@ -1,0 +1,43 @@
+body {
+  font-family: Cormorant Gramond;
+  background-color: #F6F5F3;
+  color: #3B3A3F;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  font-size: 2.5rem;
+  color: #6C5B7B;
+  text-align: center;
+}
+h2 {
+    padding-top: 30px;
+    text-align: left;
+  font-size: 1.8rem;
+  color: #6c5b66;
+}
+h3 {
+    text-align: center;
+  font-family: Cardo;
+  color: #592C36;
+    border-bottom: 1px solid #3B3A3F;
+    border-width: 70%;
+  padding-bottom: 60px;
+  margin-top: 2rem;
+}
+.email-link {
+  color: #5b0c16;
+  text-decoration: none;
+}
+.email-link:hover {
+  text-decoration: underline;
+  color: #5b0c16;
+}
+p {
+  margin-bottom: 1rem;
+  line-height: 1.8;
+}
+footer {
+  font-family: 'Franklin Gothic Medium';
+color: #6c5b66;}
